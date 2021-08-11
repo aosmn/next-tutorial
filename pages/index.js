@@ -13,13 +13,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
-          Having always loved coding I decided to pursue my software development
-          career despite my study in communications engineering, I started to
-          dig my way into software development when I graduated in 2014,
-          building small projects and collecting software engineering skills and
-          tools along the road. And here I am, a Full-stack web developer. As a
-          full-stack web developer with four years of professional experience I
+        <p>As a full-stack web developer with four years of professional experience I
           have developed multiple web applications using Meteor.js (a Node.js
           based full-stack framework) and MongoDB. I’m proficient in Node.js,
           React, Javascript, HTML, CSS, jQuery, Bootstrap, Sass and git.
